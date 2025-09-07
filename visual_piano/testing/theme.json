@@ -1,0 +1,38 @@
+{
+    "@circle_buttons":
+    {
+        "misc":
+        {
+            "shadow_width": "15",
+            "shape": "ellipse"
+        }
+    },
+    "#play_button":
+    {
+        "colours":
+        {
+            "normal_bg": "#50FF00"
+        }
+    },
+    "#stop_button":
+    {
+        "colours":
+        {
+            "normal_bg": "#FF0000"
+        }
+    },
+    "#pause_button":
+    {
+        "colours":
+        {
+            "normal_bg": "#FFF700"
+        }
+    },
+    "#mode_button":
+    {
+        "colours":
+        {
+            "normal_bg": "#0046FF"
+        }
+    }
+}
